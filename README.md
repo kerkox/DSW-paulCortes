@@ -1,3 +1,3 @@
 # Proyecto de DSW en la UNAD
 
-- Se relaiza la estrucrua basica del proyecto con html 5
+- Se relaiza la estructura basica del proyecto con html 5
